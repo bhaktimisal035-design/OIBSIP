@@ -40,9 +40,10 @@ All four models scored well on the held-out test set (90%+ accuracy). Petal leng
 ## Repo structure
 ```
 OIBSIP/
-├── Bhakti_Task1.ipynb
-├── requirements.txt
+├── Task1_Iris_Flower_Classification/
+│   └── Bhakti_Task1.ipynb
 ├── README.md
+├── requirements.txt
 └── .gitignore
 ```
 
